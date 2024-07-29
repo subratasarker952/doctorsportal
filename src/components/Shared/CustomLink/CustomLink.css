@@ -1,0 +1,9 @@
+.customLink{
+    color: black;
+    padding: 10px;
+}
+.active{
+background-color: black;
+border-radius: 12px;
+color: white;
+}
